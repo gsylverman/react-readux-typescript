@@ -5,14 +5,14 @@
       "title": "Jogging",
       "dateStart": "2020-11-25T10:10:55.159Z",
       "dateEnd": "2020-11-25T11:10:55.159Z",
-      "img": "http://localhost:3001/assets/download.jpeg"
+      "img": "http://localhost:3001/assets/images/download.jpeg"
     },
     {
       "id": 2,
       "title": "Learning Typescipt",
       "dateStart": "2020-11-25T11:10:55.159Z",
       "dateEnd": "2020-11-25T11:12:55.159Z",
-      "img": "http://localhost:3001/assets/download.jpeg"
+      "img": "http://localhost:3001/assets//images/download.jpeg"
     }
   ]
 }

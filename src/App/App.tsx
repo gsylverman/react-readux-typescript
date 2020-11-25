@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
-import { computeHeadingLevel } from "@testing-library/react";
 
 function App() {
   const [state, setstate] = useState<Array<{}>>([]);
